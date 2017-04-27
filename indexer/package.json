@@ -1,0 +1,17 @@
+{
+  "name": "indexer",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "^2.3.0",
+    "dms2dec": "^1.1.0",
+    "exif": "^0.6.0",
+    "faced": "^1.2.0",
+    "mysql": "^2.13.0",
+    "opencv": "^6.0.0",
+    "q-io": "^1.13.2",
+    "recursive-readdir": "^2.1.1",
+    "request": "^2.81.0",
+    "restify": "^4.3.0",
+    "sharp": "^0.17.3"
+  }
+}
